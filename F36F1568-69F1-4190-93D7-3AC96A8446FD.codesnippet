@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>classViewController</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>TopLevel</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>class &lt;#ClassName#&gt;: UIViewController
+{
+    // MARK: - Properties
+    
+    // MARK: Private
+    
+    // MARK: Public
+    
+    // MARK: - Super
+    
+    override func viewDidLoad()
+    {
+        super.viewDidLoad()
+        
+    }
+    
+    override func viewWillAppear(_ animated: Bool)
+    {
+        super.viewWillAppear(animated)
+        
+    }
+    
+    override func viewWillDisappear(_ animated: Bool)
+    {
+        super.viewWillAppear(animated)
+        
+    }
+    
+    // MARK: - Init
+    
+    // MARK: - View
+    
+    // MARK: - Segue
+    
+    // MARK: - IBAction
+    
+    // MARK: - Delegates
+    
+    // MARK: - Functions
+    
+    // MARK: Private
+    
+    // MARK: Public
+}
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>F36F1568-69F1-4190-93D7-3AC96A8446FD</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>InitViewController</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

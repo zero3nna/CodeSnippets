@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>vcMarks</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>ClassImplementation</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>    // MARK: - Properties
+    
+    // MARK: Private
+    
+    // MARK: Public
+    
+    // MARK: - Super
+    
+    // MARK: - Init
+    
+    // MARK: - View
+    
+    // MARK: - Segue
+    
+    // MARK: - IBAction
+    
+    // MARK: - Delegates
+    
+    // MARK: - Functions
+    
+    // MARK: Private
+    
+    // MARK: Public</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>9600A2A7-81A7-45FC-93A7-F80771DB97F7</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ViewController Marks</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
